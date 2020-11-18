@@ -14,3 +14,6 @@ The programs are as follows :-
 
 
 2.Java program to add two numbers{taking 3 variables[num1,num2,sum]}
+
+
+3.java program to calculate the simple interest and the maturity(final amount).
