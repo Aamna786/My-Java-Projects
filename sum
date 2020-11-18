@@ -8,3 +8,10 @@ class secondsum
         System.out.println("Sum of 2 numbers="+sum);
     }
 }
+
+
+
+
+
+OUTPUT IS:
+Sum of 2 numbers=30
