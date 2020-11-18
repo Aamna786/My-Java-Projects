@@ -1,0 +1,16 @@
+class thirdinterest
+{
+   public static void main(String argS[])
+    {
+        double p=10000;
+        double r=10;
+        double t=6.5;
+        double I=(p*r*t)/100;
+        double A=p+I;
+        System.out.println("Int="+I);
+        System.out.println("Amt="+A);
+    }
+}
+    
+        
+        
