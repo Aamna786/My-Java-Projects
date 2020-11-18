@@ -5,3 +5,12 @@ class firstprogramhello
         System.out.println("good evening");
     }
 }
+
+
+
+
+
+OUTPUT IS:
+
+
+good evening
