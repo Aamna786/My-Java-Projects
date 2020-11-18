@@ -17,3 +17,6 @@ The programs are as follows :-
 
 
 3.java program to calculate the simple interest and the maturity(final amount).
+
+
+4. Java program to print the multiplication table till 10.
