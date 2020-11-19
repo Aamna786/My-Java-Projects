@@ -1,0 +1,18 @@
+public class MyClass 
+{
+public static void main(String args[]) 
+{
+double h =20;
+double b =10;
+double A =(0.5*b*h) ;
+System.out.println("Area"+A) ;
+}
+}
+
+
+
+
+OUTPUT IS:
+
+Area100.0
+
