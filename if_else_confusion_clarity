@@ -1,0 +1,24 @@
+class ifelseconfusion
+{
+public static void main(String args[])
+{
+int n=10;
+if(n<10)
+{
+System.out.println("n is not a natural number");
+}
+else
+{
+System.out.println("n is a natural number");
+}
+
+
+
+
+
+
+
+OUTPUT IS :
+
+
+n is a natural number
