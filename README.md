@@ -23,3 +23,18 @@ The programs are as follows :-
 
 5.Java program to calcate the area of a right angled triangle.
 
+
+6.Java program to print the given number is natural or not.
+
+
+7.Java program to show that:
+  *else always execute false condition.
+  *if always execute true condition.
+  
+  
+  
+8.Java program to print whch number is greater among the given ones in a program using if else.
+
+
+
+
