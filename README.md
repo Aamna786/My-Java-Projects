@@ -20,3 +20,7 @@ The programs are as follows :-
 
 
 4. Java program to print the multiplication table till 10.
+
+
+5.Java program to calcate the area of a right angled triangle.
+
