@@ -9,7 +9,6 @@ The programs are as follows :-
 
 
 
-
 1.Java program to print good evening.
 
 
@@ -34,6 +33,11 @@ The programs are as follows :-
   
   
 8.Java program to print whch number is greater among the given ones in a program using if else.
+
+
+
+9.Java program to print the gradesas per the table given:
+  
 
 
 
