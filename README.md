@@ -37,6 +37,10 @@ The programs are as follows :-
 
 
 9.Java program to print the gradesas per the table given:
+
+    PERCENTAGE      GRADES
+     >=90             A
+     <90              B
   
 
 
