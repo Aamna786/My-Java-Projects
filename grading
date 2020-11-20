@@ -1,0 +1,71 @@
+per     grades
+>=90     A
+<90      B
+
+
+
+WRITE A PROGRAM TO PRINT THE GRADES AS PER THE TABLE
+
+
+class grade
+{
+public static void main(String args[])
+{
+int per=91;
+if(per<=90)
+{
+System.out.println("A");
+}
+else
+{
+System.out.println("B");
+}
+}
+
+
+
+
+
+OUTPUT IS:
+
+B
+
+
+
+
+
+       OR
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+class grade       
+{
+public static void main(String args[])
+{
+int per=91;
+if(per<90)
+{
+System.out.println("B");
+}
+else
+{
+System.out.println("A");
+}
+}
+
+
+
+
+
+
+
+OUTPUT IS:
+
+A
